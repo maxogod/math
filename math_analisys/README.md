@@ -1,1 +1,1 @@
-# Math Analisys
+# Mathematical Analisys
