@@ -4,6 +4,6 @@ My coursework and exams of the following subjects:
 
 * Algebra II
 * Calculus II
-* Numerical Modeling
+* Numerical Analysis
 * Probability & Statistics
 * Physics (for CS-Engineering)
