@@ -3,7 +3,7 @@
 My coursework and exams of the following subjects:
 
 * Algebra II
-* Math Analysis II
+* Calculus II
 * Numerical Modeling
 * Probability & Statistics
 * Physics (for CS-Engineering)
