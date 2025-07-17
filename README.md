@@ -1,4 +1,4 @@
-# Math
+# Math n stuff
 
 My coursework and exams of the following subjects:
 
@@ -6,3 +6,4 @@ My coursework and exams of the following subjects:
 * Math Analysis II
 * Numerical Modeling
 * Probability & Statistics
+* Physics (for CS-Engineering)
